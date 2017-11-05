@@ -1,4 +1,4 @@
-# social_store_platform
+# Social Store Platform
 
 
-information about this platform can be found here - http://learn.gallery/social_store_platform
+Information about this platform can be found here - http://learn.gallery/social_store_platform
